@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="PublicUtilitiesManagementSystem:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="PublicUtilitiesManagementSystem.war">
+      <element id="artifact" artifact-name="PublicUtilitiesManagementSystem:war exploded" />
+    </root>
+  </artifact>
+</component>
